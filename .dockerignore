@@ -1,0 +1,10 @@
+.git
+.idea
+node_modules
+Dockerfile
+
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
